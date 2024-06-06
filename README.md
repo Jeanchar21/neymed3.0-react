@@ -1,4 +1,2 @@
-Digite npm start no terminal Visual Studio Code dentro da pasta neymv, para visualização deste pequeno projeto de estudo. Essa versão foi feita em React, um framework de JavaScript, também foi feita uma versão com EcmaScript (JavaScript puro) postada anteriormente.
-O nome do projeto é apenas uma brincadeira interna, no entanto sua parte lógica tratou-se mais uma vez de um estudo iniciante muito produtivo e mais complexo que o anterior.
-Nesta versão os dados foram armazenados no banco de dados Postgres, pois este projeto também faz integração com uma API feita em Java desenvolvida em conjunto com a aplicação (a API também foi postada em seguida)
+Este é o repositório da API em Java que faz integração com o Front-end em React do Neymed 3.0.
 Este foi um projeto iniciante de Front-end e Back-end em conjunto. Para a API em Java usei o Springboot (um dos ORMs mais populares) e o SpringSecurity para fazer a autenticação do usuário.
